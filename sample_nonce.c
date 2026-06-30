@@ -1,5 +1,5 @@
 
-
+#include <stdint.h>
 
 uint64_t PLAT_GetNONCE(void)
 {
